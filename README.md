@@ -61,10 +61,6 @@ xdg-open index.html
 
 [https://image-gallery-pied-five.vercel.app/](https://image-gallery-pied-five.vercel.app/)
 
-## Screenshots
-
-> Screenshots go here
-
 ## Future Enhancements
 
 - Upload your own images via drag & drop
