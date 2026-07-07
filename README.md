@@ -42,7 +42,7 @@ Simply open `index.html` in any modern browser. No build tools or server require
 
 ```bash
 # Clone the repository
-git clone <repo-url>
+git clone https://github.com/maddurvignesh/image-gallery.git
 
 # Navigate into the directory
 cd image-gallery
